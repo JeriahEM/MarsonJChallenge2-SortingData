@@ -1,0 +1,17 @@
+.bgColor{
+    background-color: maroon;
+}
+
+.w{
+    color: #FFFFFFFF;
+}
+
+.al{
+    display: flex; justify-content: left;
+}
+.ac{
+    display: flex; justify-content: center;
+}
+.ar{
+    display: flex; justify-content: right;
+}
