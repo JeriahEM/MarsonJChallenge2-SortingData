@@ -14,6 +14,8 @@ let twentyBtn = document.getElementById("twentyBtn");
 let thirtyBtn = document.getElementById("thirtyBtn");
 let fourtyBtn = document.getElementById("fourtyBtn");
 let fiftyBtn = document.getElementById("fiftyBtn");
+let nextBtn = document.getElementById("nextBtn");
+let prevBtn = document.getElementById("prevBtn");
 
 // import data from '../data/data.json';
 
